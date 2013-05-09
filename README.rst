@@ -2,7 +2,7 @@ Stormageddon: Dark Lord of Stream Processing.
 ---------------------------------------------
 
 Stormageddon is a toolchain for using Twisted with
-.. _Storm: https://github.com/nathanmarz/storm/.
+`Storm <https://github.com/nathanmarz/storm/>`_.
 
 Stormageddon is EXPERIMENTAL.  Neither the interfaces or the implementation
 are stable.  Use at your own risk.
