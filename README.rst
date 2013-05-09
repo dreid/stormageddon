@@ -10,10 +10,10 @@ are stable.  Use at your own risk.
 Supported Features
 ==================
 
- * Spouts
- * Bolts
+* Spouts
+* Bolts
 
 TODO
 ====
 
- * Defining and submitting topologies.
+* Defining and submitting topologies.
